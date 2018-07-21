@@ -1,0 +1,21 @@
+form{
+	margin-left: 350px;
+}
+
+@media screen and (max-width:786px){
+	table {
+    
+    width: 150%;
+   
+	
+}
+body{
+	width:200px;
+}
+form{
+	margin-left: 0px;
+}
+#all-content{
+	margin:25px;
+}
+}
